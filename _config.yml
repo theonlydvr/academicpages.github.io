@@ -1,11 +1,3 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your entire site, values
-# which you are expected to set up once and rarely need to edit after that.
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# `jekyll serve`. If you change this file, please restart the server process.
-
-# Site Settings
 locale                   : "en-US"
 title                    : "Evan Dastin-van Rijn (Sc.B)"
 title_separator          : "-"
@@ -82,7 +74,7 @@ analytics:
 author:
   name             : "Evan Dastin-van Rijn"
   avatar           : "profile.png"
-  bio              : "&description"
+  bio              : "Ph.D. student, Biomedical Engineering, University of Minnesota - Twin Cities"
   location         : "Minneapolis, Minnesota"
   employer         :
   pubmed           :
