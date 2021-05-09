@@ -10,10 +10,10 @@ locale                   : "en-US"
 title                    : "Evan Dastin-van Rijn (Sc.B)"
 title_separator          : "-"
 name                     : &name "Evan Dastin-van Rijn"
-description              : &description "personal description"
+description              : &description "Ph.D. student, Biomedical Engineering, University of Minnesota - Twin Cities"
 url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "theonlydvr/academicpages.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Evan Dastin-van Rijn"
   avatar           : "profile.png"
-  bio              : "Ph.D. student, Biomedical Engineering, University of Minnesota - Twin Cities"
+  bio              : "&description"
   location         : "Minneapolis, Minnesota"
   employer         :
   pubmed           :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "theonlydvr"
   google_plus      :
   keybase          :
   instagram        :
@@ -176,8 +176,8 @@ kramdown:
 # Collections
 collections:
   # teaching:
-  #   output: true
-  #   permalink: /:collection/:path/
+    output: true
+    permalink: /:collection/:path/
   publications:
     output: true
     permalink: /:collection/:path/
@@ -192,16 +192,16 @@ collections:
 # Defaults
 defaults:
   # _posts
-  # - scope:
-  #     path: ""
-  #     type: posts
-  #   values:
-  #     layout: single
-  #     author_profile: true
-  #     read_time: true
-  #     comments: true
-  #     share: true
-  #     related: true
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: true
+      share: true
+      related: true
   # _pages
   - scope:
       path: ""
@@ -210,14 +210,14 @@ defaults:
       layout: single
       author_profile: true
   # _teaching
-  # - scope:
-  #     path: ""
-  #     type: teaching
-  #   values:
-  #     layout: single
-  #     author_profile: true
-  #     share: true
-  #     comments: true
+  - scope:
+      path: ""
+      type: teaching
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
   # _publications
   - scope:
       path: ""
