@@ -6,7 +6,6 @@ type: "Poster"
 venue: "6th Annual BRAIN Initiative Investigators Meeting"
 location: "Virtual"
 date: 2020-6-1
-authors: "<b>Evan Dastin-van Rijn</b>, Nicole Provenza, Matthew T. Harrison, Wayne K. Goodman, David Borton"
 ---
 
 ## Authors

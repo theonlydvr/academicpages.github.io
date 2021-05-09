@@ -2,7 +2,7 @@
 title: "Artifact Removal from Local Field Potential Recordings During Deep Brain Stimulation"
 collection: talks
 permalink: /talks/UTRA
-type: "Poster "
+type: "Poster"
 venue: "2019 UTRA Summer Research Symposium"
 location: "Providence, RI"
 date: 2019-8-3
