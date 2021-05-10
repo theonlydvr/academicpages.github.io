@@ -57,10 +57,7 @@
 
       <!-- citation and icon code -->
       <p>
-      {% if post.citation %}
-        {{ post.citation }}
-      {% endif %}
-      <br>
+      <a href="{{ base_path }}{{ post.url }}" rel="permalink"><i class="fas fa-fw fa-info-circle zoom" aria-hidden="true"></i></a>
       {% if post.conference %}
       <a href="{{ post.conference }}" rel="permalink"><i class="fas fa-fw fa-globe zoom" aria-hidden="true"></i></a>
       {% endif %}
@@ -89,7 +86,6 @@
         </a>
       </p>
     {% elsif post.excerpt and site.read_more != 'enabled' %}
-    <p class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify }}</p>
     {% elsif post.excerpt and site.read_more == 'enabled' %}
         <p>
           <strong>
