@@ -7,4 +7,5 @@ venue: "OpenMind Consortium Tech Call"
 location: "Virtual"
 conference: "https://openmind-consortium.github.io/"
 date: 2021-4-30
+slides: "files/slides/OMC2.pptx"
 ---

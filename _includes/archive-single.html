@@ -26,7 +26,7 @@
       </div>
     {% endif %}
 
-    <h2 class="archive__item-title">
+    <h2 class="archive__item-title" itemprop="headline">
       {% if post.collection == 'talks' %}
         {{ title }}
       {% elsif post.link %}
@@ -60,6 +60,12 @@
       <a href="{{ base_path }}{{ post.url }}" rel="permalink"><i class="fas fa-fw fa-info-circle zoom" aria-hidden="true"></i></a>
       {% if post.conference %}
       <a href="{{ post.conference }}" rel="permalink"><i class="fas fa-fw fa-globe zoom" aria-hidden="true"></i></a>
+      {% endif %}
+      {% if post.poster %}
+      <a href="{{ base_path }}{{ post.poster }}" rel="permalink"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a>
+      {% endif %}
+      {% if post.slides %}
+      <a href="{{ base_path }}{{ post.slides }}" rel="permalink"><i class="fas fa-fw fa-file-powerpoint zoom" aria-hidden="true"></i></a>
       {% endif %}
       {% if post.paperurl %}
         <a href="{{ base_path }}{{ post.paperurl }}"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a>
