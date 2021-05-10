@@ -5,7 +5,8 @@ permalink: /talks/NEBEC2021
 type: "Poster"
 venue: "2021 Northeast Bioengineering Conference"
 location: "Virtual"
-date: 2021-03-23
+date: 2021-3-23
+conference: "https://www.nebec.org/"
 ---
 
 ## Authors

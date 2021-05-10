@@ -5,5 +5,6 @@ permalink: /talks/OMC2
 type: "Talk"
 venue: "OpenMind Consortium Tech Call"
 location: "Virtual"
+conference: "https://openmind-consortium.github.io/"
 date: 2021-1-22
 ---
