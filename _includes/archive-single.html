@@ -40,6 +40,8 @@
       <p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> {% include read-time.html %}</p>
     {% endif %}
 
+    {% if post.date and post.venue%}<p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> {{ post.venue }}, {{ post.date | date: '%B %d, %Y' }}</p>{% endif %}
+
     {% if post.collection == 'teaching' %}
       <p> {{ post.type }}, <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
     {% elsif post.collection == 'talks' %}
@@ -60,7 +62,7 @@
       {% endif %}
       <br>
       {% if post.conference %}
-      <a href="{{ post.url }}" rel="permalink"><i class="fas fa-fw fa-globe zoom" aria-hidden="true"></i></a>
+      <a href="{{ post.conference }}" rel="permalink"><i class="fas fa-fw fa-globe zoom" aria-hidden="true"></i></a>
       {% endif %}
       {% if post.paperurl %}
         <a href="{{ base_path }}{{ post.paperurl }}"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a>
