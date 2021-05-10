@@ -6,6 +6,7 @@ type: "Poster"
 venue: "6th Annual BRAIN Initiative Investigators Meeting"
 location: "Virtual"
 date: 2020-6-1
+poster: "files/poster/BRAIN6.pdf"
 conference: "https://braininitiative.nih.gov/News-Events/event/6th-annual-brain-initiative-investigators-meeting"
 ---
 

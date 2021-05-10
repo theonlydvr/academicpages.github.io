@@ -6,6 +6,7 @@ type: "Poster"
 venue: "2019 UTRA Summer Research Symposium"
 location: "Providence, RI"
 date: 2019-8-3
+poster: "files/poster/UTRA.pdf"
 conference: "https://www.brown.edu/academics/college/fellowships/utra/research-symposium"
 ---
 
