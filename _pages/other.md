@@ -1,3 +1,10 @@
+---
+layout: archive
+title: "Other"
+permalink: /other/
+author_profile: true
+---
+
 # App Development
 
 <table style="border-collapse: collapse;">
@@ -17,6 +24,7 @@
   </tr>
   <tr>
   <th>
+  
   ## Just in Time Teaching
 
   Just in Time Teaching (JiTT) is a series of evidence-based Infographics that address foundational clinical teaching principles. I developed the Android version of the application.
