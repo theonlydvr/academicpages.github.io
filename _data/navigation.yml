@@ -9,8 +9,11 @@ main:
   - title: "Teaching"
     url: /teaching/
 
-  - title: "Portfolio"
-    url: /portfolio/
-
-  - title: "CV"
+- title: "CV"
     url: /files/Evan_Dastin-van_Rijn_CV.pdf
+
+  - title: "Gallery"
+    url: /gallery/
+
+  - title: "Other"
+    url: /other/
