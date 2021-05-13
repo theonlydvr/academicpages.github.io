@@ -22,7 +22,7 @@ A complete guide to major Polish cities - (i.e. Krakow, Warsaw, Lublin, Lodz) an
 
 <br/><br/>
 
-  <a href="https://play.google.com/store/apps/details?id=net.multieducator.poland&hl=en&gl=US" rel="permalink"><i class="fab fa-google-play zoom" style="font_size: 50px" aria-hidden="true"></i></a>
+  <a href="https://play.google.com/store/apps/details?id=net.multieducator.poland&hl=en&gl=US" rel="permalink"><i class="fab fa-google-play zoom fa-3x" aria-hidden="true"></i></a>
 
   <a href="https://apps.apple.com/us/app/poland-a-guide-to-major-cities-and-jewish-sites/id901499355" rel="permalink"><i class="fab fa-app-store-ios zoom" aria-hidden="true"></i></a>
 
@@ -32,7 +32,7 @@ A complete guide to major Polish cities - (i.e. Krakow, Warsaw, Lublin, Lodz) an
   <th>
 
 <h1>Just in Time Teaching</h1>
-
+<br/>
 Just in Time Teaching (JiTT) is a series of evidence-based Infographics that address foundational clinical teaching principles. I developed the Android version of the application.
 
 <br/><br/>
