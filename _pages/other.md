@@ -9,7 +9,7 @@ author_profile: true
 
 # App Development
 
-<table style="border: 1px solid #CCC; border-collapse: collapse;">
+<table style="border: none; border-collapse: collapse;">
   <tr>
   <th>
   <img align="left" src="../files/other/poland_icon.png">
@@ -18,7 +18,7 @@ author_profile: true
 
 <h1>Poland a Guide to Major Cities</h1>
 <br/>
-A complete guide to major Polish cities - (i.e. Krakow, Warsaw, Lublin, Lodz) and a helpful resource for any one traveling to Poland. I developed the Android version of the application.
+A complete guide to major Polish cities - (i.e. Krakow, Warsaw, Lublin, Lodz) and a helpful resource for anyone traveling to Poland. I developed the Android version of the application.
 
 <br/><br/>
 
@@ -33,7 +33,7 @@ A complete guide to major Polish cities - (i.e. Krakow, Warsaw, Lublin, Lodz) an
 
 <h1>Just in Time Teaching</h1>
 <br/>
-Just in Time Teaching (JiTT) is a series of evidence-based Infographics that address foundational clinical teaching principles. I developed the Android version of the application.
+Just in Time Teaching (JiTT) is a series of evidence-based infographics that address foundational clinical teaching principles. I developed the Android version of the application.
 
 <br/><br/>
 
@@ -49,3 +49,38 @@ Just in Time Teaching (JiTT) is a series of evidence-based Infographics that add
 </table>
 
 # Game Design
+
+<table style="border: none; border-collapse: collapse;">
+  <tr>
+  <th>
+  <img align="left" src="../files/other/sequence.png">
+  </th>
+  <th>
+
+<h1>Sequence</h1>
+<br/>
+A simple game where you combine numbers in a grid based on addition. Get the highest score in a timed or unlimited format.
+
+<br/><br/>
+
+  <a href="https://play.google.com/store/apps/details?id=net.multieducator.poland&hl=en&gl=US" rel="permalink"><i class="fab fa-play zoom fa-2x" aria-hidden="true"></i></a>
+
+  </th>
+  </tr>
+  <tr>
+  <th>
+
+<h1>Purple Planet</h1>
+<br/>
+Combine colors to make the planet purple as many times as possible within the time available.
+
+<br/><br/>
+
+<a href="https://play.google.com/store/apps/details?id=net.multieducator.poland&hl=en&gl=US" rel="permalink"><i class="fab fa-play zoom fa-2x" aria-hidden="true"></i></a>
+
+  </th>
+  <th>
+  <img align="right" src="../files/other/purple_planet.png">
+  </th>
+  </tr>
+</table>
