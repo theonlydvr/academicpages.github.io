@@ -9,12 +9,12 @@ author_profile: true
 
 # App Development
 
-<table style="border: none; border-collapse: collapse;">
+<table style="width: 100%; table-layout: fixed; border: none; border-collapse: collapse;">
   <tr>
-  <th>
+  <th style="border: none;">
   <img align="left" src="../files/other/poland_icon.png">
   </th>
-  <th>
+  <th style="border: none;">
 
 <h1>Poland a Guide to Major Cities</h1>
 <br/>
@@ -29,7 +29,7 @@ A complete guide to major Polish cities - (i.e. Krakow, Warsaw, Lublin, Lodz) an
   </th>
   </tr>
   <tr>
-  <th>
+  <th style="border: none;">
 
 <h1>Just in Time Teaching</h1>
 <br/>
@@ -42,7 +42,7 @@ Just in Time Teaching (JiTT) is a series of evidence-based infographics that add
 <a href="https://apps.apple.com/us/app/jitt-infographics/id1536470883" rel="permalink"><i class="fab fa-app-store-ios zoom fa-2x" aria-hidden="true"></i></a>
 
   </th>
-  <th>
+  <th style="border: none;">
   <img align="right" src="../files/other/jitt_icon.png">
   </th>
   </tr>
@@ -50,12 +50,12 @@ Just in Time Teaching (JiTT) is a series of evidence-based infographics that add
 
 # Game Design
 
-<table style="border: none; border-collapse: collapse;">
-  <tr>
-  <th>
+<table style="width: 100%; table-layout: fixed; border: none; border-collapse: collapse;">
+  <tr >
+  <th style="border: none;">
   <img align="left" src="../files/other/sequence.png">
   </th>
-  <th>
+  <th style="border: none;">
 
 <h1>Sequence</h1>
 <br/>
@@ -63,12 +63,12 @@ A simple game where you combine numbers in a grid based on addition. Get the hig
 
 <br/><br/>
 
-  <a href="https://play.google.com/store/apps/details?id=net.multieducator.poland&hl=en&gl=US" rel="permalink"><i class="fab fa-play zoom fa-2x" aria-hidden="true"></i></a>
+  <a href="https://play.google.com/store/apps/details?id=net.multieducator.poland&hl=en&gl=US" rel="permalink"><i class="fas fa-play zoom fa-2x" aria-hidden="true"></i></a>
 
   </th>
   </tr>
   <tr>
-  <th>
+  <th style="border: none;">
 
 <h1>Purple Planet</h1>
 <br/>
@@ -76,10 +76,10 @@ Combine colors to make the planet purple as many times as possible within the ti
 
 <br/><br/>
 
-<a href="https://play.google.com/store/apps/details?id=net.multieducator.poland&hl=en&gl=US" rel="permalink"><i class="fab fa-play zoom fa-2x" aria-hidden="true"></i></a>
+<a href="https://play.google.com/store/apps/details?id=net.multieducator.poland&hl=en&gl=US" rel="permalink"><i class="fas fa-play zoom fa-2x" aria-hidden="true"></i></a>
 
   </th>
-  <th>
+  <th style="border: none;">
   <img align="right" src="../files/other/purple_planet.png">
   </th>
   </tr>
