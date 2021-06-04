@@ -48,6 +48,8 @@ Just in Time Teaching (JiTT) is a series of evidence-based infographics that add
   </tr>
 </table>
 
+<br/>
+
 # Game Design
 
 <table style="width: 100%; table-layout: fixed; border: none; border-collapse: collapse;">
